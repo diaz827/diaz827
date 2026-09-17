@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:canosadiaz6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+34684342769"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/34684342769"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -70,7 +70,7 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 <p align="center">
   📫 Contacto: <a href="mailto:canosadiaz6@gmail.com">canosadiaz6@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/">LinkedIn</a> ·
-  <a href="tel:+34684342769">684342769</a>
+  <a href="https://wa.me/34684342769">684342769</a>
 </p>
 
 <p align="center">
