@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Diaz 👋</h1>
+<h1 align="center">¡Hola! Soy Diaz</h1>
 
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web (DAW) en A Coruña 🇪🇸</h3>
 
