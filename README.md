@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Desarrollador+web;Me+gusta+entender+c%C3%B3mo+funcionan+las+cosas;De+los+aut%C3%B3matas+de+Siemens+al+c%C3%B3digo;Curioso%2C+resolutivo+y+con+ganas+de+aprender" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="mailto:canosadiaz6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="tel:+34684342769"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 ---
 
 ### 🙋‍♂️ Sobre mí
@@ -29,7 +35,7 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 ---
 
 ### 🛠️ Stack y herramientas
- 
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,8 +48,6 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-
-
 ---
 
 ### 📌 Proyectos destacados
@@ -51,7 +55,6 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 - **[MiDiazrio](https://midiazrio.blog/)** — Blog personal hecho con WordPress.
 - **Marcador deportivo web** — Marcador táctil a doble cara para partidos, en un único archivo HTML autocontenido, con animaciones y función de reinicio. Pensado para usarse directamente desde el móvil sobre el terreno de juego.
 - **Ejercicios Java (POO)** — Sistema de reservas con interfaz `Reservable` y manejo de excepciones personalizadas, como parte de la formación en programación orientada a objetos.
-> ✏️ *Sustituye los enlaces `(#)` por las URLs reales de tus repositorios en cuanto los subas o los hagas públicos.*
 
 ---
 
@@ -64,9 +67,6 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 
 ---
 
-
 <p align="center">
-  📫 Contacto: <a href="mailto:canosadiaz6@gmail.com">canosadiaz6@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/">LinkedIn</a> ·
-  <a>684342769</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
