@@ -67,9 +67,12 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 
 ---
 
-
 <p align="center">
   📫 Contacto: <a href="mailto:canosadiaz6@gmail.com">canosadiaz6@gmail.com</a> ·
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/">LinkedIn</a> ·
-  <a>684342769</a>
+  <a href="tel:+34684342769">684342769</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
