@@ -51,11 +51,13 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 ---
 
 ### 📌 Proyectos destacados
-
-- **[MiDiazrio](https://midiazrio.blog/)** — Blog personal hecho con WordPress.
-- **Marcador deportivo web** — Marcador táctil a doble cara para partidos, en un único archivo HTML autocontenido, con animaciones y función de reinicio. Pensado para usarse directamente desde el móvil sobre el terreno de juego.
-- **Ejercicios Java (POO)** — Sistema de reservas con interfaz `Reservable` y manejo de excepciones personalizadas, como parte de la formación en programación orientada a objetos.
-
+ 
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🌐 **[MiDiazrio](https://midiazrio.blog/)** | Blog personal con estética cálida y artesanal, diseño y contenido propios. | WordPress |
+| ⚓ **[Hundir la Flota](https://github.com/Ikeer3/hundirFlota)** | Versión en consola del clásico "Hundir la Flota" contra una CPU, con tableros, gestión de disparos y colocación de barcos. | Java |
+| 🏎️ **[Competición de Coches](https://github.com/NoamNeo/Competicion-Coches)** | Proyecto en grupo que simula un campeonato de F1: coches, pilotos, circuitos y carreras con clasificación por piloto y por escudería. | Java |
+ 
 ---
 
 ### 💬 Habilidades que traigo de fuera del código
