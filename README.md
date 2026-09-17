@@ -75,7 +75,3 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/">LinkedIn</a> ·
   <a href="[https://wa.me/34684342769](https://wa.me/34684342769?text=Hola%20Dani,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría%20contactar%20contigo.)">684342769</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
