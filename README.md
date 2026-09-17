@@ -9,9 +9,9 @@
 <p align="center">
   <a href="mailto:canosadiaz6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/34684342769"><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/34684342769?text=Hola%20Dani,%20vi%20tu%20perfil%20de%20GitHub%20y%20me%20gustaría%20contactar%20contigo."><img src="https://img.shields.io/badge/Tel%C3%A9fono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
-
+[Escríbeme por WhatsApp](https://wa.me/34609876484?text=Hola,%20tengo%20una%20duda%20sobre%20tu%20proyecto)
 ---
 
 ### 🙋‍♂️ Sobre mí
