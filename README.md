@@ -57,6 +57,7 @@ Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alg
 | 🌐 **[MiDiazrio](https://midiazrio.blog/)** | Blog personal con estética cálida y artesanal, diseño y contenido propios. | WordPress |
 | ⚓ **[Hundir la Flota](https://github.com/Ikeer3/hundirFlota)** | Versión en consola del clásico "Hundir la Flota" contra una CPU, con tableros, gestión de disparos y colocación de barcos. | Java |
 | 🏎️ **[Competición de Coches](https://github.com/NoamNeo/Competicion-Coches)** | Proyecto en grupo que simula un campeonato de F1: coches, pilotos, circuitos y carreras con clasificación por piloto y por escudería. | Java |
+| 🐕 **[Podencos](https://github.com/diaz827/podencos)** | Web interactiva sobre la raza podenco con diseño Bento Grid, lightbox para imágenes y vídeo de carga con lógica JS adaptada a móvil. | HTML · CSS · JavaScript |
  
 ---
 
