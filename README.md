@@ -15,6 +15,8 @@
 
 ### 🙋‍♂️ Sobre mí
 
+<div align="justify">
+
 Tengo 21 años y esa curiosidad por entender cómo funciona la tecnología me acompaña desde pequeño: siempre me ha llamado la atención desmontar las cosas para ver cómo encajan y qué se puede construir con ellas. Ahora mismo estoy cursando el **Grado Superior de Desarrollo de Aplicaciones Web (DAW)** en A Coruña, y busco unas **prácticas** donde poder aportar y seguir creciendo como desarrollador.
 
 Mi camino hasta aquí no empezó frente al código: antes cursé un **Grado de Sistemas Electrónicos y Automatizados**, trabajando con autómatas de Siemens y lógica de sistemas eléctricos. Esa etapa me dio una base técnica sólida, una forma estructurada de resolver problemas y el hábito de analizar cómo encajan las piezas de un sistema para que todo funcione sin fallos — algo que hoy traslado directamente a la programación.
@@ -22,6 +24,8 @@ Mi camino hasta aquí no empezó frente al código: antes cursé un **Grado de S
 En paralelo, estuve varios años ejerciendo como **árbitro de fútbol** en el Comité Técnico Gallego. Estar en el campo con el silbato me ha enseñado a gestionar la presión en décimas de segundo, tomar decisiones firmes y objetivas, comunicarme con claridad y mantener la calma en situaciones tensas. Son habilidades que aplico igual sobre el terreno de juego que resolviendo un bug en producción.
 
 Fuera de la pantalla, moverme es mi forma de desconectar: gimnasio, running, alguna pachanga de fútbol, windsurf o paddle surf cuando el mar acompaña, y alguna partida de pádel. Soy una persona activa e inquieta, tan de planear el próximo viaje como de disfrutar del tiempo con la gente cercana.
+
+</div>
 
 ---
 
