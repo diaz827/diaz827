@@ -3,11 +3,14 @@
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Web (DAW) en A Coruña 🇪🇸</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Desarrollador+web;Me+gusta+entender+c%C3%B3mo+funcionan+las+cosas;De+los+aut%C3%B3matas+de+Siemens+al+c%C3%B3digo;Curioso%2C+resolutivo+y+con+ganas+de+aprender" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="mailto:canosadiaz6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://soydiaz.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-
 ---
 
 ### 🙋‍♂️ Sobre mí
