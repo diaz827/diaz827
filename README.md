@@ -10,7 +10,9 @@
   <a href="mailto:canosadiaz6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dani-d%C3%ADaz-canosa-4465793b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://soydiaz.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="CV%20Daniel%20Díaz.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculum-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV" /></a>
 </p>
+
 ---
 
 ### 🙋‍♂️ Sobre mí
