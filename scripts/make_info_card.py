@@ -17,7 +17,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "info-card.svg"
+OUT = ROOT / "assets" / "info-card.svg"
 
 STATIC = os.environ.get("STATIC") == "1"
 USER = "diaz827"

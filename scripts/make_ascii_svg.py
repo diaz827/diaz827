@@ -14,8 +14,8 @@ from xml.sax.saxutils import escape
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "source-prepped.png"
-OUT = ROOT / "ascii.svg"
+SRC = ROOT / "assets" / "source-prepped.png"
+OUT = ROOT / "assets" / "ascii.svg"
 
 RAMP = " .`:-=+*cs#%@"  # claro (poco denso) -> oscuro (denso)
 COLS = 100

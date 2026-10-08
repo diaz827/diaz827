@@ -16,7 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "data" / "contributions.json"
-OUT = ROOT / "contrib-heatmap.svg"
+OUT = ROOT / "assets" / "contrib-heatmap.svg"
 
 PALETTE = ["#161b22", "#0d3b66", "#1565c0", "#1e88e5", "#4fc3f7", "#67f4ff"]
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
