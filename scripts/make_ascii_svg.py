@@ -11,7 +11,7 @@ Salida:
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-from PIL import Image
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "source-prepped.png"
@@ -32,6 +32,8 @@ CURSOR_DUR = 0.28
 
 def to_ascii(img: Image.Image) -> list[str]:
     gray = img.convert("L").resize((COLS, ROWS), Image.LANCZOS)
+    # estira el histograma de la cuadrícula: cara legible sin quemar el fondo
+    gray = ImageOps.autocontrast(gray, cutoff=(1, 2))
     px = list(gray.get_flattened_data()) if hasattr(gray, "get_flattened_data") else list(gray.getdata())
     lines = []
     for r in range(ROWS):
