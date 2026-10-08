@@ -39,6 +39,7 @@ ROWS = [
     ("Email", "canosadiaz6@gmail.com", BLUE),
     ("LinkedIn", "linkedin.com/in/dani-díaz-canosa-4465793b2", BLUE),
     ("Web", "soydiaz.pages.dev", CYAN),
+    ("Blog", "midiazrio.blog", CYAN),
 ]
 
 
@@ -105,13 +106,14 @@ def main() -> None:
     sep_y = y0 + 8
     parts.append(f'<line x1="{PAD}" y1="{sep_y}" x2="{W - PAD}" y2="{sep_y}" stroke="#21262d"/>')
 
-    # bloque de "logo" ASCII simple (bloques de color) a la izquierda
+    # bloque de "logo" simple (un cuadrillo por fila, alineado con el texto)
     logo_x = PAD
     logo_y = sep_y + 24
-    logo_colors = [BLUE, GREEN, CYAN, "#d2a8ff", "#f778ba", "#ffa657", "#8b949e"]
-    for i, c in enumerate(logo_colors):
+    logo_colors = [BLUE, GREEN, CYAN, "#d2a8ff", "#f778ba", "#ffa657", "#8b949e", GRAY]
+    for i in range(len(ROWS)):
         parts.append(
-            f'<rect x="{logo_x}" y="{logo_y + i * 18}" width="12" height="12" rx="3" fill="{c}"/>'
+            f'<rect x="{logo_x}" y="{logo_y + i * LINE_H + 1}" width="12" height="12" '
+            f'rx="3" fill="{logo_colors[i % len(logo_colors)]}"/>'
         )
 
     # filas clave/valor
