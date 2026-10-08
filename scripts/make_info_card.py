@@ -21,8 +21,6 @@ OUT = ROOT / "info-card.svg"
 
 STATIC = os.environ.get("STATIC") == "1"
 USER = "diaz827"
-W = 580  # se muestra a 490px en el README
-H = 340
 BG = "#0d1117"
 FG = "#c9d1d9"
 CYAN = "#39b9cf"
@@ -30,19 +28,27 @@ BLUE = "#58a6ff"
 GREEN = "#39d353"
 GRAY = "#8b949e"
 FONT_SIZE = 14
+CHAR_W = 8.4  # ancho aproximado por glifo monoespaciado a 14px
 LINE_H = 26
 PAD = 18
 
 # (clave, valor, color del valor)
 ROWS = [
-    ("OS", "Ubuntu 24.04 LTS on WSL2", FG),
-    ("Now", "Building AI-powered side projects", GREEN),
-    ("Prev", "Data analysis & automation scripts", GRAY),
-    ("Stack", "Python / TypeScript / FastAPI / Docker", BLUE),
-    ("Shell", "zsh + neovim", FG),
-    ("Highlights", "100+ commits this year", CYAN),
-    ("Learning", "LLM agents & systems design", CYAN),
+    ("Name", "Daniel Díaz Canosa", FG),
+    ("Now", "Estudiante de DAW en A Coruña \U0001f1ea\U0001f1f8", GREEN),
+    ("Email", "canosadiaz6@gmail.com", BLUE),
+    ("LinkedIn", "linkedin.com/in/dani-díaz-canosa-4465793b2", BLUE),
+    ("Web", "soydiaz.pages.dev", CYAN),
 ]
+
+
+def calc_width() -> int:
+    """Ancho mínimo para que quepa la fila más larga (clave + ' : ' + valor)."""
+    longest = max(len(k) + 3 + len(v) for k, v, _ in ROWS)
+    return max(480, int(PAD * 2 + 28 + longest * CHAR_W) + 12)
+
+
+W = calc_width()
 
 LINE_DELAY = 0.18
 FADE = 0.45
@@ -65,7 +71,7 @@ def open_g(idx: int) -> str:
 
 def main() -> None:
     n_lines = 1 + len(ROWS)
-    h = max(H, PAD * 2 + 30 + n_lines * LINE_H + 10)
+    h = PAD * 2 + 30 + n_lines * LINE_H + 10
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{h}" '
