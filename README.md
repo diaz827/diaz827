@@ -1,5 +1,16 @@
-# readmeGitHub
+<div align="center">
 
-Hello World! 🌍
+<h3><code>diaz827@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
 
-Prueba de conexión entre el repositorio local y GitHub.
+<br><br>
+
+<h3><code>diaz827@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top"><img src="./ascii.svg" width="370" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" /></td>
+</tr>
+</table>
+
+</div>
