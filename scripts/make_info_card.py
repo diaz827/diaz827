@@ -40,6 +40,7 @@ ROWS = [
     ("LinkedIn", "linkedin.com/in/dani-díaz-canosa-4465793b2", BLUE),
     ("Web", "soydiaz.pages.dev", CYAN),
     ("Blog", "midiazrio.blog", CYAN),
+    ("WP", "profiles.wordpress.org/diaz827", CYAN),
 ]
 
 

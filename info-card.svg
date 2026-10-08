@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="521" height="258" viewBox="0 0 521 258" font-family="Consolas, Menlo, monospace" font-size="14">
-<rect width="521" height="258" rx="8" fill="#0d1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="521" height="284" viewBox="0 0 521 284" font-family="Consolas, Menlo, monospace" font-size="14">
+<rect width="521" height="284" rx="8" fill="#0d1117"/>
 <g>
 <rect width="521" height="30" rx="8" fill="#161b22"/>
 <rect y="14" width="521" height="16" fill="#161b22"/>
@@ -16,10 +16,12 @@
 <rect x="18" y="173" width="12" height="12" rx="3" fill="#d2a8ff"/>
 <rect x="18" y="199" width="12" height="12" rx="3" fill="#f778ba"/>
 <rect x="18" y="225" width="12" height="12" rx="3" fill="#ffa657"/>
+<rect x="18" y="251" width="12" height="12" rx="3" fill="#8b949e"/>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.43s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="0.43s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="105"><tspan fill="#39b9cf" font-weight="bold">Name</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#c9d1d9">Daniel Díaz Canosa</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.61s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="0.61s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="131"><tspan fill="#39b9cf" font-weight="bold">Now</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#39d353">Estudiante de DAW en A Coruña 🇪🇸</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.79s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="0.79s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="157"><tspan fill="#39b9cf" font-weight="bold">Email</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#58a6ff">canosadiaz6@gmail.com</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.97s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="0.97s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="183"><tspan fill="#39b9cf" font-weight="bold">LinkedIn</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#58a6ff">linkedin.com/in/dani-díaz-canosa-4465793b2</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.15s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="209"><tspan fill="#39b9cf" font-weight="bold">Web</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#39b9cf">soydiaz.pages.dev</tspan></text></g>
 <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.33s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="1.33s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="235"><tspan fill="#39b9cf" font-weight="bold">Blog</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#39b9cf">midiazrio.blog</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.51s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="10 0" to="0 0" dur="0.45s" begin="1.51s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/><text x="46" y="261"><tspan fill="#39b9cf" font-weight="bold">WP</tspan><tspan fill="#c9d1d9"> : </tspan><tspan fill="#39b9cf">profiles.wordpress.org/diaz827</tspan></text></g>
 </svg>
