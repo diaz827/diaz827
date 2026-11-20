@@ -1,7 +1,7 @@
 {
   "username": "diaz827",
-  "year_total": 96,
-  "current_streak": 14,
+  "year_total": 97,
+  "current_streak": 0,
   "longest_streak": 28,
   "best_day": {
     "date": "2026-10-08",
@@ -21,7 +21,7 @@
     "2026-08": 0,
     "2026-09": 0,
     "2026-10": 37,
-    "2026-11": 32
+    "2026-11": 33
   },
   "days": [
     {
@@ -1866,9 +1866,14 @@
     },
     {
       "date": "2026-11-19",
-      "level": 2,
-      "count": 2
+      "level": 3,
+      "count": 3
+    },
+    {
+      "date": "2026-11-20",
+      "level": 0,
+      "count": 0
     }
   ],
-  "fetched_at": "2026-11-19T15:48:31"
+  "fetched_at": "2026-11-20T15:30:14"
 }
